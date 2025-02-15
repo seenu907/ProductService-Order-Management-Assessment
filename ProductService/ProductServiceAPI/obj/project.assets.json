@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment_new\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
       "projectName": "ProductServiceAPI",
-      "projectPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment_new\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
+      "projectPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
       "packagesPath": "C:\\Users\\syaves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment_new\\ProductService\\ProductServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

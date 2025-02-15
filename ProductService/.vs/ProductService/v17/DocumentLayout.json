@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment_new\\ProductService\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABD11C-349F-4A2E-8D03-778DD064F54A}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\users\\syaves\\onedrive - rotary international\\documents\\visual studio 2022\\order-management-assessment\\productservice\\productservice.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABD11C-349F-4A2E-8D03-778DD064F54A}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE8469-0DCB-4741-8EE3-BB2548E77D7A}|ProductService.Core\\ProductService.Core.csproj|c:\\users\\syaves\\onedrive - rotary international\\documents\\visual studio 2022\\order-management-assessment\\productservice\\productservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CE8469-0DCB-4741-8EE3-BB2548E77D7A}|ProductService.Core\\ProductService.Core.csproj|solutionrelative:productservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,15 +66,33 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductService.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductService.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:16:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductService.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductService.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductService.Core\\Class1.cs",
+              "RelativeToolTip": "ProductService.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:15:07.878Z",
+              "EditorCaption": ""
             }
           ]
         }

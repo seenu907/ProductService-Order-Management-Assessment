@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4XVvT5vJKQ=",
+  "dgSpecHash": "2oCWaPTEYVE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment_new\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
+  "projectFilePath": "C:\\Users\\syaves\\OneDrive - Rotary International\\Documents\\Visual Studio 2022\\order-management-assessment\\ProductService\\ProductServiceAPI\\ProductServiceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\syaves\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\syaves\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
